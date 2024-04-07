@@ -433,23 +433,23 @@ li i::after {
 
 /* Images du portfolio */
 
-#portfolio {
+.portfolio {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-#portfolio img[alt*="exemple"] {
+.portfolio img[alt*="exemple"] {
     display: block;
     width: 23.2vw;
 }
 
-#portfolio figure {
+.portfolio figure {
     margin: 10px;
     position: relative;
 }
 
-#portfolio figcaption {
+.portfolio figcaption {
     background-color: rgba(0, 0, 0, 0.5);
     bottom: 0;
     /*cache le figcaption */
@@ -467,7 +467,7 @@ li i::after {
     ;
 }
 
-#portfolio figcaption i {
+.portfolio figcaption i {
     background-color: rgb(89, 177, 206);
     border: 2px solid white;
     border-radius: 50%;
@@ -477,13 +477,13 @@ li i::after {
     top: -18px;
 }
 
-#portfolio figcaption em {
+.portfolio figcaption em {
     font-size: 1.75695vw;
     font-style: normal;
     font-weight: bold;
 }
 
-#portfolio figure:hover figcaption {
+.portfolio figure:hover figcaption {
     opacity: 1;
     /* affiche le figcaption au survol */
 }
@@ -580,11 +580,11 @@ textarea {
    #Portfolio ul li.selected button::after {
       left: 31px;
    }
-    #portfolio figcaption {
+    .portfolio figcaption {
         height: 30%;
         font-size: 4vw;
     }
-    #portfolio figcaption em {
+    .portfolio figcaption em {
         font-size: 6vw;
     }
 
@@ -700,7 +700,7 @@ textarea {
     #Portfolio li button {
         width: 75px;
     }
-    #portfolio img[alt*="exemple"] {
+    .portfolio img[alt*="exemple"] {
         width: 90vw;
     }
     #Formulaire {
@@ -789,13 +789,13 @@ textarea {
       left: 31px;
    }
 
-    #portfolio img[alt*="exemple"] {
+    .portfolio img[alt*="exemple"] {
         width: 43vw;
     }
-    #portfolio figcaption em {
+    .portfolio figcaption em {
         font-size: 4vw;
     }
-    #portfolio figcaption {
+    .portfolio figcaption {
         font-size: 2.5vw;
     }
 }
@@ -813,19 +813,19 @@ textarea {
 }
 
 @media (min-width: 361px) and (max-width:1110px) {
-    #portfolio figcaption {
+    .portfolio figcaption {
         height: 40%;
     }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-    #portfolio img[alt*="exemple"] {
+    .portfolio img[alt*="exemple"] {
         width: 27vw;
     }
 }
 
 @media (min-width: 768px) and (max-width: 1110px) {
-    #portfolio img[alt*="exemple"] {
+    .portfolio img[alt*="exemple"] {
         width: 21vw;
     }
 }
