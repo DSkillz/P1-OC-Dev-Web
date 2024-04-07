@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <title>WebAgency</title>
-    <link rel="icon" href="/img/favicon.ico">
+    <link rel="icon" href="img/favicon.ico">
 
     <meta name="description" content="Tout le Webdesign, solutions clés en main, rapport qualité/prix garanti">
     <meta name="keywords" content="webdesign, solutions clés en main">
@@ -13,12 +13,12 @@
     <meta name="author" content="Subileau Matthias">
     <meta name="robots" content="index, follow">
 
-    <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
-    <link rel="stylesheet" type="text/css" href="/CSS/fontawesome.min.css">
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+    <link rel="stylesheet" type="text/css" href="CSS/fontawesome.min.css">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto">
     <!--<link rel="stylesheet" type="text/css" href="onepage-scroll.css">-->
 
-    <script src="/js/jquery.min..js">
+    <script src="js/jquery.min..js">
     </script>
 
 </head>
@@ -26,7 +26,7 @@
 <body cz-shortcut-listen="true">
 
     <header>
-        <img src="/img/logo.png" alt="logo">
+        <img src="img/logo.png" alt="logo">
         <nav>
             <ul>
                 <li><a href="#Accueil">Accueil</a></li>
@@ -41,14 +41,14 @@
             <div id="Slider">
                 <h1><strong>WEBAGENCY</strong> : L'AGENCE DE TOUS<br> VOS PROJETS !</h1>
                 <figure class="visible">
-                    <img src="/img/bg1.jpg">
+                    <img src="img/bg1.jpg">
                     <figcaption>
                         <p>Vous avez un projet web ? La WebAgency vous aide à le réaliser !</p>
                         <a href="#" class="generic-button">Plus d'infos</a>
                     </figcaption>
                 </figure>
                 <figure>
-                    <img src="/img/bg2.jpg">
+                    <img src="img/bg2.jpg">
                     <figcaption>
                         <p>Vous avez un projet web ? La WebAgency vous aide à le réaliser !</p>
                         <a href="#" class="generic-button">Plus d'infos</a>
@@ -65,7 +65,7 @@
             <h1>NOS SERVICES</h1>
             <p>Voici les services que vous proposent la WebAgency pour la création vos sites web</p>
             <div class="flex1">
-                <img src="/img/main-feature.png" alt="logo de présentation ordinateur">
+                <img src="img/main-feature.png" alt="logo de présentation ordinateur">
                 <div id="ServicesList">
                     <ul>
                         <li> <i class="fa fa-line-chart"></i>
@@ -104,51 +104,51 @@
             <div class="portfolio">
 
                 <figure>
-                    <a href="#"><img src="/img/nose-in-the-sky.jpg" alt="exemple de creation de site 1"></a>
+                    <a href="#"><img src="img/nose-in-the-sky.jpg" alt="exemple de creation de site 1"></a>
                     <a href="#">
                         <figcaption><em>Nose in the sky</em><br>Coach en Relooking<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/pink-rabbit.jpg" alt="exemple de creation de site 2"></a>
+                    <a href="#"><img src="img/pink-rabbit.jpg" alt="exemple de creation de site 2"></a>
                     <a href="#">
                         <figcaption><em>Pink Rabbit</em><br>Ingénieurs<i class="fa fa-eye" aria-hidden="true"></i>
                         </figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/pompadour.jpg" alt="exemple de creation de site 3"></a>
+                    <a href="#"><img src="img/pompadour.jpg" alt="exemple de creation de site 3"></a>
                     <a href="#">
                         <figcaption><em>Pompadour</em><br>Fabricant de chaussures<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/mysterious-thing.jpg" alt="exemple de creation de site 4"></a>
+                    <a href="#"><img src="img/mysterious-thing.jpg" alt="exemple de creation de site 4"></a>
                     <a href="#">
                         <figcaption><em>Mysterious Thing</em><br>Architectes<i class="fa fa-eye" aria-hidden="true"></i>
                         </figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/psd-shopping-bag.jpg" alt="exemple de creation de site 5"></a>
+                    <a href="#"><img src="img/psd-shopping-bag.jpg" alt="exemple de creation de site 5"></a>
                     <a href="#">
                         <figcaption><em>PSD Shopping Bag</em><br>Fabricant de shopping bag<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/build-mix.jpg" alt="exemple de creation de site 6"></a>
+                    <a href="#"><img src="img/build-mix.jpg" alt="exemple de creation de site 6"></a>
                     <a href="#">
                         <figcaption><em>Build Mix</em><br>Constructeur en tout genre<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/roquet-inc.jpg" alt="exemple de creation de site 7"></a>
+                    <a href="#"><img src="img/roquet-inc.jpg" alt="exemple de creation de site 7"></a>
                     <a href="#">
                         <figcaption><em>Roquet Inc</em><br>Fabricant de stylo<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
                 </figure>
                 <figure>
-                    <a href="#"><img src="/img/be-them.jpg" alt="exemple de creation de site 8"></a>
+                    <a href="#"><img src="img/be-them.jpg" alt="exemple de creation de site 8"></a>
                     <a href="#">
                         <figcaption><em>Be Them</em><br>Fournisseur en bureautique<i class="fa fa-eye" aria-hidden="true"></i></figcaption>
                     </a>
